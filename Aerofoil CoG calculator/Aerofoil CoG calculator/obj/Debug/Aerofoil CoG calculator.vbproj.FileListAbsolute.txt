@@ -1,0 +1,20 @@
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\bin\Debug\Aerofoil CoG calculator.exe.config
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.vbprojResolveAssemblyReference.cache
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\obj\Debug\Aerofoil_CoG_calculator.Resources.resources
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.vbproj.GenerateResource.Cache
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\bin\Debug\Aerofoil CoG calculator.exe
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\bin\Debug\Aerofoil CoG calculator.pdb
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\bin\Debug\Aerofoil CoG calculator.xml
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.exe
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.xml
+C:\Users\joshk\AppData\Local\Temporary Projects\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.pdb
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\bin\Debug\Aerofoil CoG calculator.exe.config
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.exe
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.xml
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.pdb
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\bin\Debug\Aerofoil CoG calculator.exe
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\bin\Debug\Aerofoil CoG calculator.pdb
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\bin\Debug\Aerofoil CoG calculator.xml
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.vbprojResolveAssemblyReference.cache
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\obj\Debug\Aerofoil_CoG_calculator.Resources.resources
+C:\Users\joshk\OneDrive\Documents\Visual Studio 2015\Projects\Aerofoil CoG calculator\Aerofoil CoG calculator\obj\Debug\Aerofoil CoG calculator.vbproj.GenerateResource.Cache
